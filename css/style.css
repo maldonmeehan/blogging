@@ -1,11 +1,21 @@
 .aboutme {
   color: red;
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 .posts {
   font-style: italic;
+  margin-top: 120px;
+  margin-bottom: 120px;
 }
 
 .dates {
   color: green;
+}
+
+.title {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  font-style: italic;
 }
